@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section provides the course description and information
   about required texts, assignments, attendance and plagiarism policies, useful references,
   and the schedule of lecture topics and key dates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -102,7 +104,7 @@ Come to class having read the assigned material carefully, and prepared to liste
 
 **Attendance is mandatory**. If you are going to be absent you must alert me, in advance. Each student will be allowed two absences, after which he or she will lose 1% (of the course total 100%) for each incident. Being late is a form of absence, and I will decide when a sufficient number of late arrivals becomes equivalent to one day of absence.
 
-**Plagiarism will be heavily penalized**. The Literature Faculty policy states: "students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work." For more, find the style guides at the Writing Center, or visit {{% resource_link "51ce5aa7-5c31-4941-aa72-3bf743f3c1d5" "MIT Online Writing and Communication Center" %}}.
+**Plagiarism will be heavily penalized**. The Literature Faculty policy states: "students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work." For more, find the style guides at the Writing Center, or visit [MIT Online Writing and Communication Center](http://web.mit.edu/writing/index.html).
 
 **\*\*\*Do not bring food, mobile phones, or laptops to class. I will consign them to a fiery pit. Exceptions are made when you are using your laptop for class purposes.\*\*\***
 

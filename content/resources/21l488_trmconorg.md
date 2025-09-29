@@ -4,6 +4,8 @@ description: Reference material on key terms, concepts, and organizations.
 file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/2066260ac45302ab5103ff5df02f870a_21l488_trmconorg.pdf
 file_size: 10713
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

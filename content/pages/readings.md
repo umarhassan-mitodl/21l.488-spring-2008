@@ -37,7 +37,7 @@ Roe, Emily. "Development Narratives, Or Making the Best of Blueprint Development
 
 Benjamin, Bret. "Success Stories: NGOs and the Banking Bildungsroman." *Invested Interests: Capital, Culture, and the World Bank*. Minneapolis, MN: University of Minnesota Press, 2007, pp. 135-164. ISBN: 9780816648733.
 
-Agamben, Giorgio. "{{% resource_link "8c2c0f40-66e9-4a13-ae07-733b5c20a6c6" "A Brief History of the State of Exception" %}}."
+Agamben, Giorgio. "[A Brief History of the State of Exception](http://www.press.uchicago.edu/Misc/Chicago/009254.html)."
 
 ———. "Form of Life." *Means Without End: Notes on Politics*. Translated by Vincenzo Binetti and Cesare Casarino. Minneapolis, MN: University of Minnesota Press, 2000, pp. 3-14. ISBN: 9780816630356.
 
