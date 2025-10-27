@@ -6,8 +6,6 @@ description: 'Guide to writing literature essays, include discussion of the basi
 file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/7d0d340a67e826fe1773b8d1c78a84f0_agdwrtltreesays.pdf
 file_size: 40837
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,26 +1,24 @@
 ---
 content_type: page
 description: This section contains links to related resources for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 3cfb8548-d066-7f69-29e4-4eb374d0deb2
 ---
 
-[London School of Economics: Development Studies Institute](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2021/MSc-Development-Studies); access to working papers
+{{% resource_link "402e223d-6bd6-45ba-9c4a-119a1588e163" "London School of Economics: Development Studies Institute" %}}; access to working papers
 
-[The World Bank](http://www.worldbank.org/)
+{{% resource_link "1acdbced-2972-4bb2-8bc2-7bd91fd68f1e" "The World Bank" %}}
 
-[The International Monetary Fund](http://www.imf.org/external/index.htm)
+{{% resource_link "6f79384f-edcf-41bd-9461-ecf4686e14fc" "The International Monetary Fund" %}}
 
 The Meaning of Development by D. Seers
 
-[Human Development Index](http://hdr.undp.org/en/statistics/)
+{{% resource_link "1fb4b76b-f010-469b-8e34-2b35bf822a74" "Human Development Index" %}}
 
-[The World Bank - Voices of the Poor](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/131441468779067441/voices-of-the-poor-can-anyone-hear-us)
+{{% resource_link "8ccb110f-92b4-444a-b8bc-7eac7b11b70f" "The World Bank - Voices of the Poor" %}}
 
-[Glossary of Literary Terms](http://www.gale.cengage.com/free_resources/glossary/index.htm)
+{{% resource_link "e25d6cf3-50f2-40d8-9d1d-926ac01b6816" "Glossary of Literary Terms" %}}
 
-["People First: The Human Development Reports"](http://hdr.undp.org/en/humandev/); a short film about the concept of Human Development
+{{% resource_link "3b45609f-770f-41e8-8cca-be5bfd400d76" "\"People First: The Human Development Reports\"" %}}; a short film about the concept of Human Development
